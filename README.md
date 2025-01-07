@@ -3,9 +3,7 @@ Examen du 2ème cercle du cursus 42
 # Matière
 Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en examens de piscine ou en sont des variantes.
 
-## Rank 0
-**ft_strlen, ft_putstr, ft_swap, rev_print, rot_13, ...**
-### Notions à maîtriser
+### Notions élémentaires
 1. Fonctions
    - Qu'est-ce qu'une fonction?
    - Comment écrire une fonction
@@ -13,24 +11,33 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
    - Qu'est-ce qu'un programme?
    - Comment écrire un programme
    - Comment compiler et exécuter un programme
-3. Pointeurs
+3. Librairies
+    - Qu'est-ce qu'une librairie?
+    - Comment inclure des librairies
+4. Pointeurs
    - Qu'est-ce qu'un pointeur?
    - Comment utiliser les pointeurs: les déclarer, les assigner, les passer, y accéder, les réassigner
-5. Comment fonctionnent les string en C
+
+## Rank 0
+**ft_strlen, ft_putstr, ft_swap, rev_print, rot_13, ...**
+### Notions à maîtriser
+1. Toutes les notions vues précédemment
+2. Comment fonctionnent les string en C
    - Comment définir la fin d'une string
    - Comment accéder à un char spécifique d'une string
-6. Incrémentation / Décrémentation
+3. Incrémentation / Décrémentation
    - Qu'est-ce qu'une incrémentation / décrémentation?
    - Comment écrire une incrémentation / décrémentation
-7. Comment écrire des conditions simples et multiples (et, ou)
-8. Comment écrire une boucle
-9. Quelle est la fonction et le fonctionnement du modulo?
-10. Comment inclure des librairies
-11. Write()
+4. Comment écrire des conditions simples et multiples (et, ou)
+5. Comment écrire une boucle
+6. Modulo
+    - Qu'est-ce que modulo?
+    - Comment utiliser modulo
+7. Write()
     - Quelle librairie pour write?
     - Comment écrire write()
-12. Quelle est la valeur d'un char? (table ASCII)
-13. Tableaux
+8. Quelle est la valeur d'un char? (table ASCII)
+9. Tableaux
     - Qu'est-ce qu'un tableau?
     - Comment écrire un tableau?
     - Comment accéder au contenu du tableau?
