@@ -17,6 +17,9 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 4. Pointeurs
    - Qu'est-ce qu'un pointeur?
    - Comment utiliser les pointeurs: les déclarer, les assigner, les passer, y accéder, les réassigner
+5. RTFM (read the fucking manual)
+   - Qu'est-ce que le man?
+   - Comment utiliser le man?
 
 ## Rank 0
 **ft_strlen, ft_putstr, ft_swap, rev_print, rot_13, ...**
