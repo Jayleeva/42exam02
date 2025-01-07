@@ -23,7 +23,7 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 ### Notions à maîtriser
 1. Toutes les notions vues précédemment
 2. Comment fonctionnent les string en C
-   - Comment définir la fin d'une string
+   - Comment définir/identifier la fin d'une string
    - Comment accéder à un char spécifique d'une string
 3. Incrémentation / Décrémentation
    - Qu'est-ce qu'une incrémentation / décrémentation?
