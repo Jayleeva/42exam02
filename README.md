@@ -5,7 +5,7 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 
 ## Rank 0
 **ft_swap, ft_strlen, ft_putstr, rev_print, rot_13, ...**
-### A maîtriser
+### Notions à maîtriser
 1. Fonctions
    - Qu'est-ce qu'une fonction?
    - Comment écrire une fonction
@@ -33,4 +33,13 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
     - Qu'est-ce qu'un tableau?
     - Comment écrire un tableau?
     - Comment accéder au contenu du tableau?
-13. 
+
+## Rank 1
+**ft_strcmp, ft_strdup, union, camel_to_snake, max, swap_bits, ...**
+### Notions à maîtriser
+1. Toutes les notions vues précédemment
+2. Bits
+   - Qu'est-ce qu'un bit?
+   - Comment accéder aux bits d'un byte?
+   - Comment modifier un bit?
+3. 
