@@ -71,3 +71,10 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
    - Comprendre la base hexadécimale
 3. Comment récupérer les arguments passés lors de l'exécution?
 
+## Rank 3
+**ft_itoa, ft_split, rostring, sort_list, ...**
+### Notions à maîtriser
+1. Toutes les notions vues précédemment
+2. Comment repérer les mots dans une string pour les manipuler
+3. Comment passer une fonction en argument dans une autre fonction
+``void	ft_striteri(char *s, void (*f)(unsigned int, char*))``
