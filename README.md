@@ -5,7 +5,7 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 
 ## Rank 0
 **ft_swap, ft_strlen, ft_putstr, rev_print, rot_13, ...**
-# A maîtriser
+### A maîtriser
 1. Fonctions
    1.1. Qu'est-ce qu'une fonction?
    1.2. Comment écrire une fonction
