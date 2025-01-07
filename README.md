@@ -26,11 +26,11 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 8. Comment écrire une boucle
 9. Quelle est la fonction et le fonctionnement du modulo?
 10. Write()
-   - Quelle librairie pour write?
-   - Comment écrire write()
+    - Quelle librairie pour write?
+    - Comment écrire write()
 11. Quelle est la valeur d'un char? (table ASCII)
 12. Tableaux
-   - Qu'est-ce qu'un tableau?
-   - Comment écrire un tableau?
-   - Comment accéder au contenu du tableau?
+    - Qu'est-ce qu'un tableau?
+    - Comment écrire un tableau?
+    - Comment accéder au contenu du tableau?
 13. 
