@@ -78,3 +78,6 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 2. Comment repérer les mots dans une string pour les manipuler
 3. Comment passer une fonction en argument dans une autre fonction
 ``void	ft_striteri(char *s, void (*f)(unsigned int, char*))``
+4. Listes chaînées
+   - Qu'est-ce qu'une liste chaînée?
+   - Comment utiliser une liste chaînée?
