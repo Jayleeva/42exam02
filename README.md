@@ -76,11 +76,12 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 ### Notions à maîtriser
 1. Toutes les notions vues précédemment
 2. Comment repérer les mots dans une string pour les manipuler
-3. Comment passer une fonction en argument dans une autre fonction
+3. Comment créer un tableau, lui allouer de la mémoire, y assigner des valeurs etc 
+4. Comment passer une fonction en argument dans une autre fonction
 ``void	ft_striteri(char *s, void (*f)(unsigned int, char*))``
-4. Listes chaînées
+5. Listes chaînées
    - Qu'est-ce qu'une liste chaînée?
    - Comment utiliser une liste chaînée?
-5. Structures
+6. Structures
    - Qu'est-ce qu'une structure?
    - Comment utiliser les structures?
