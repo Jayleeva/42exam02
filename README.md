@@ -72,7 +72,7 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 3. Comment récupérer les arguments passés lors de l'exécution?
 
 ## Rank 3
-**ft_itoa, ft_split, rostring, sort_list, ...**
+**ft_itoa, ft_split, rostring, sort_list, flood_fill, ...**
 ### Notions à maîtriser
 1. Toutes les notions vues précédemment
 2. Comment repérer les mots dans une string pour les manipuler
@@ -81,3 +81,6 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 4. Listes chaînées
    - Qu'est-ce qu'une liste chaînée?
    - Comment utiliser une liste chaînée?
+5. Structures
+   - Qu'est-ce qu'une structure?
+   - Comment utiliser les structures?
