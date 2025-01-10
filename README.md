@@ -70,6 +70,9 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
    - Qu'est-ce qu'une base?
    - Comprendre la base hexadécimale
 3. Comment récupérer les arguments passés lors de l'exécution?
+4. Récursivité
+   - Qu'est-ce que la récursivité?
+   - Comment écrire une fonction récursive
 
 ## Rank 3
 **ft_itoa, ft_split, rostring, sort_list, flood_fill, ...**
