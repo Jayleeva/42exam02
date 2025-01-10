@@ -75,13 +75,14 @@ Exercices du niveau de la libft, en 4 ranks. Certains ont déjà été vus en ex
 **ft_itoa, ft_split, rostring, sort_list, flood_fill, ...**
 ### Notions à maîtriser
 1. Toutes les notions vues précédemment
-2. Comment repérer les mots dans une string pour les manipuler
+2. Comment repérer et isoler les mots dans une string pour les manipuler
 3. Comment créer un tableau à 2 dimensions, lui allouer de la mémoire, y assigner des valeurs etc 
 4. Comment passer une fonction en argument dans une autre fonction
 ``void	ft_striteri(char *s, void (*f)(unsigned int, char*))``
-5. Listes chaînées
-   - Qu'est-ce qu'une liste chaînée?
-   - Comment utiliser une liste chaînée?
-6. Structures
+5. Structures
    - Qu'est-ce qu'une structure?
    - Comment utiliser les structures?
+6. Listes chaînées
+   - Qu'est-ce qu'une liste chaînée?
+   - Comment utiliser une liste chaînée?
+
