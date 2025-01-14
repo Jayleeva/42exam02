@@ -15,9 +15,9 @@
 3. Remplir le tableau:
   - tant que la string n'a pas ete entierement parcourue ET que l'index des mots est plus petit que le nombre de mots,
   - verifier si le char actuel n'est pas un espace.
-    si true, appeler la fonction fill(string + index des chars), qui definit la fin du mot actuel, puis qui alloue de la memoire de la taille de ce mot et le remplit des char via substr.
-  - verifier si l'allocation a fonctionne. Si false, appeler free_tab() dans le return pour liberer toute la memoire correctement.
-  - incrementer l'index des chars de la longueur du mot via ft_strlen.
+    si true, appeler la fonction fill(string + index des chars), qui definit la fin du mot actuel, puis qui alloue de la memoire de la taille de ce mot et le remplit des char via ft_substr(str, start, len).
+  - verifier si l'allocation a fonctionne. Si false, appeler free_tab(tab) dans le return pour liberer toute la memoire correctement.
+  - incrementer l'index des chars de la longueur du mot via ft_strlen(str).
   - incrementer l'index des mots.
   - finir le tableau avec un NULL.
 4. Retourner le tableau.
