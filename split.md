@@ -16,7 +16,7 @@
   - tant que la string n'a pas ete entierement parcourue ET que l'index des mots est plus petit que le nombre de mots,
   - verifier si le char actuel n'est pas un espace.
     si true, appeler la fonction **fill(string + index des chars)**, qui definit la fin du mot actuel, puis qui alloue de la memoire de la taille de ce mot et le remplit des char via **ft_substr(str, start, len)**.
-  - verifier si l'allocation a fonctionne. PAS DE FREE() EN EXAMEN : sur cet exercice, les leaks ne sont pas verifies et free() n'est pas autorise.
+  - verifier si l'allocation a fonctionne. PAS DE FREE() EN EXAMEN : sur cet exercice, les leaks ne sont pas verifies et **free()** n'est pas autorise.
   - incrementer l'index des chars de la longueur du mot via **ft_strlen(str)**.
   - incrementer l'index des mots.
   - finir le tableau avec un NULL.
