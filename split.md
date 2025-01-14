@@ -3,7 +3,7 @@
 1. Compter le nombre de mots:
   - Tant que la string n'a pas ete entierement parcourue,
   - verifier si : 
-      on est au premier char ET le char actuel n'est pas un espace
+      on est au premier char ET le char actuel n'est pas un espace avec **is_in_set(c)**
       
       OU
 
