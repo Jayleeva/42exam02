@@ -24,3 +24,5 @@
 
 # itoa
 ## Etapes
+1. Compter le nombre de chiffres avec **get_nelem(nbr)**.
+2. 
