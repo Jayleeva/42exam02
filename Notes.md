@@ -25,7 +25,7 @@ Les grandes étapes de *mes* solutions aux exercices.
 1. Compter le nombre de mots avec **word_count(str)**:
   - Tant que la string n'a pas été entièrement parcourue,
   - vérifier si : 
-      on est au premier char ET le char actuel n'est pas un espace avec **is_in_set(c)**
+      on est au premier char ET le char actuel n'est pas un espace avec **is_space(c)**
       
       OU
 
